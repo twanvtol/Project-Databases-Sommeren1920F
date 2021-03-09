@@ -14,3 +14,9 @@ C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenModel\obj\Debug\SomerenModel.pdb

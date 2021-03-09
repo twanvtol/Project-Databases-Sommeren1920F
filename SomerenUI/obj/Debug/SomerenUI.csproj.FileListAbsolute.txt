@@ -31,3 +31,20 @@ C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenUI\obj\Debug\SomerenUI.exe
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenUI\obj\Debug\SomerenUI.pdb

@@ -5,33 +5,33 @@ using SomerenModel;
 
 namespace SomerenDAL
 {
-    public class Student_DAO : Base
+    public class Teacher_DAO : Base
     {
-        public List<Student> Db_Get_All_Students()
+        public List<Teacher> Db_Get_All_Teachers()
         {
             string query = "SELECT student_id, student_name FROM [dbo].[Students]";
             return ReadTables(ExecuteSelectQuery(query));
         }
 
-        private List<Student> ReadTables(DataTable StudentsDataTable)
+        private List<Teacher> ReadTables(DataTable TeacherDataTable)
         {
-            List<Student> students = new List<Student>();
+            List<Teacher> lecturers = new List<Teacher>();
 
-            if (StudentsDataTable == null)
+            if (TeacherDataTable == null)
             {
                 throw new Exception("There are no items in the datatable!");
             }
 
-            foreach (DataRow row in StudentsDataTable.Rows)
+            foreach (DataRow row in TeacherDataTable.Rows)
             {
-                Student student = new Student()
+                Teacher lecturer = new Teacher()
                 {
                     Name = (string)row["student_name"],
                     Number = (int)row["student_id"]
                 };
-                students.Add(student);
+                lecturers.Add(lecturer);
             }
-            return students;
+            return lecturers;
         }
     }
 }

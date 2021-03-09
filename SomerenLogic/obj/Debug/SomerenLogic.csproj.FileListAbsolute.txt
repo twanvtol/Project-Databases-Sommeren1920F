@@ -28,3 +28,14 @@ C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
 C:\Users\twanv\OneDrive\Bureaublad\Inholland Haarlem jaar 1 herkansen 2020-2021\Periode 3\Project herkansing\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\twanv\OneDrive\Bureaublad\Project-Databases-Sommeren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
