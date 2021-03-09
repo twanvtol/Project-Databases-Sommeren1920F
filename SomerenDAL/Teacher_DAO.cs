@@ -9,7 +9,7 @@ namespace SomerenDAL
     {
         public List<Teacher> Db_Get_All_Teachers()
         {
-            string query = "SELECT student_id, student_name FROM [dbo].[Students]";
+            string query = "SELECT teacher_id, teacher_name FROM [dbo].[Teachers]";
             return ReadTables(ExecuteSelectQuery(query));
         }
 
@@ -26,8 +26,8 @@ namespace SomerenDAL
             {
                 Teacher lecturer = new Teacher()
                 {
-                    Name = (string)row["student_name"],
-                    Number = (int)row["student_id"]
+                    Name = (string)row["teacher_name"],
+                    Number = (int)row["teacher_id"]
                 };
                 lecturers.Add(lecturer);
             }

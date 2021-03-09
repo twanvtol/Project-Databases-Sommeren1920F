@@ -81,6 +81,13 @@ namespace SomerenUI
 
                 // clear the listview before filling it again
                 listviewLecturers.Clear();
+
+                foreach (Teacher teacher in teacherService.GetTeacher())
+                {
+                    ListViewItem li = new ListViewItem(teacher.Name);
+                    li.SubItems.Add(teacher.Number.ToString());
+                    listviewLecturers.Items.Add(li);
+                }
             }       
         }
 

@@ -9,7 +9,7 @@ namespace SomerenLogic
     {
         Teacher_DAO Lecturers_db = new Teacher_DAO();
 
-        public List<Teacher> GetLecturers()
+        public List<Teacher> GetTeacher()
         {
             try
             {
